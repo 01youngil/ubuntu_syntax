@@ -23,7 +23,7 @@ sudo apt-get install openjdk-11-jdk
 # 네트워크 설정 정보 조회 : 윈도우에서는 ipconfig
 ifconfig
 # 특정 도메인의 ip주소 정보 조회
-nslooup 도메인주소
+nslookup 도메인주소
 # 네트워크 연결상태 조회(ip만 사용)
 # 일번적으로 ping은 보안상 막아두고있음에 유의
 ping <IP주소>
